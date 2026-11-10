@@ -3,7 +3,7 @@
 This is a modified, working version of the download script originally found on the FreeCAD Wiki.
 The original script had broken dependencies and some outdated/incompatible code; this version fixes those issues.
 
-Downloads the FreeCAD User Manual from <https://wiki.freecad.org> and builds an
+Downloads the FreeCAD User Manual from <https://wiki.freecad.org/FreeCAD_Manual_Converter> and builds an
 offline copy:
 
 - **PDF**: cover, clickable table of contents with page numbers, bookmarks
