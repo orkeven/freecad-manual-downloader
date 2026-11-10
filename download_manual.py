@@ -8,6 +8,15 @@
 # Modified by: Orkeven
 # Changes made: Fixed broken dependencies and updated library calls.
 # Needed to make it work on Fedora, hence this script.
+# The manual text and images belong to the FreeCAD community and come from
+# https://wiki.freecad.org - available under Creative Commons Attribution (CC-BY)
+# unless otherwise noted.
+
+# Origin: this script started from a script published on the FreeCAD Wiki
+# (https://wiki.freecad.org/FreeCAD_Manual_Converter), available under CC-BY unless otherwise noted. It has been
+# heavily modified (rewritten crawler, single combined PDF, working internal
+# links, EPUB fixes, cross-platform support). Original portions remain under
+# CC-BY; the modifications are MIT-licensed (see LICENSE).
 # ==============================================================================
 
 import argparse
