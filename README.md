@@ -103,5 +103,5 @@ Issues and pull requests are welcome, especially Windows/macOS testing notes.
   Creative Commons Attribution (CC-BY) unless otherwise noted. Credit the source
   (<https://wiki.freecad.org>) and link the licence when sharing them. The script
   cannot detect pages or images that carry different terms.
-- **The original wiki content is licensed under the CC BY 3.0** Accordingly, this
+- **The original wiki content is licensed under the CC BY 3.0.** Accordingly, this
   modified script is also shared under the CC BY 3.0 licence.
